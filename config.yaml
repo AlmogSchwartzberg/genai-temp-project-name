@@ -4,7 +4,6 @@ seed: 42
 
 # Google Drive (mounted in Colab). Images and models live here, never in Git.
 drive_root: /content/drive/MyDrive/synthdetect
-drive_folders: [real, synthetic, rejected, models, checkpoints, results]
 
 domain: TBD            # open question (PRD section 14)
 object_classes: []     # filled from objects_table.csv once the domain is chosen

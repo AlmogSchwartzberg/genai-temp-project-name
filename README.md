@@ -15,7 +15,7 @@ We test whether synthetic images generated with Stable Diffusion improve light f
 | `notebooks/03_finetune.ipynb` | Fine-tune detection models |
 | `notebooks/04_results.ipynb` | Results table and plots |
 
-Images, checkpoints and models are stored in Google Drive (`drive_root` in `config.yaml`), never in Git.
+Images, checkpoints and models are stored in Google Drive (`drive_root` in `config.yaml`), never in Git. Drive holds three folders, each created when first needed: `real`, `synthetic`, `results`.
 
 ## Getting started
 
