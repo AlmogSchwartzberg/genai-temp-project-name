@@ -1,0 +1,14 @@
+# Data and models live in Google Drive, not in Git
+data/
+*.png
+*.jpg
+*.jpeg
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env
